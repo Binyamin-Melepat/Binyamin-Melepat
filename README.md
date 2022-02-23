@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Binyamin-Melepat
 - 👀 I’m interested in Java development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Open source projecta
+- 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me : binyaminmelepat@gmail.com
